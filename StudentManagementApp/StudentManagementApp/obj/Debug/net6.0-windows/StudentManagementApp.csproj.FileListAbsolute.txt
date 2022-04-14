@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\obj\Debug\net6.0-windows\StudentManagementApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\obj\Debug\net6.0-windows\StudentManagementApp.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\obj\Debug\net6.0-windows\StudentManagementApp.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\obj\Debug\net6.0-windows\StudentManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\obj\Debug\net6.0-windows\StudentManagementApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\obj\Debug\net6.0-windows\StudentManagementApp.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\obj\Debug\net6.0-windows\StudentManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\bin\Debug\net6.0-windows\StudentManagementApp.exe
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\bin\Debug\net6.0-windows\StudentManagementApp.deps.json
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\bin\Debug\net6.0-windows\StudentManagementApp.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\bin\Debug\net6.0-windows\StudentManagementApp.dll
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\bin\Debug\net6.0-windows\ref\StudentManagementApp.dll
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\bin\Debug\net6.0-windows\StudentManagementApp.pdb
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\obj\Debug\net6.0-windows\StudentManagementApp.dll
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\obj\Debug\net6.0-windows\ref\StudentManagementApp.dll
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\obj\Debug\net6.0-windows\StudentManagementApp.pdb
+C:\Users\ASUS\Documents\GitHub\Student-Management-App\StudentManagementApp\StudentManagementApp\obj\Debug\net6.0-windows\StudentManagementApp.genruntimeconfig.cache
